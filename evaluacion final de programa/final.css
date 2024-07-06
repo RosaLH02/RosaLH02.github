@@ -1,0 +1,38 @@
+.css-selector {
+    font-family: 'Font Name', serif; overflow-x:hidden;
+}
+
+#Menu a {
+    font-size: 18px;
+    font-weight: bold;
+    color: #3f3f3f;
+
+}
+#Menu for > button{
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.carrusel-inner{
+    max-height: 39rem;
+}
+
+@media (max-widht:768px)
+{
+    #Intro{
+        width: 90% !important;
+    }
+}
+
+.Servicio-fila{
+        width: 100% !important;
+        text-align: center;
+ }
+@media(max-widht:576px){
+    .icono-wrao{
+        flex-wrap: ;
+        justify-content: center !important;
+    }
+}
+
+
